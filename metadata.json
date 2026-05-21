@@ -1,0 +1,6 @@
+{
+  "name": "씨마스고등학교 급식",
+  "description": "사용자의 현재 날짜(한국 KST) 기준 동적 오늘 급식, 주간 식단표, 영양계산 및 프로필 알레르기 관리를 적용한 씨마스고등학교 급식 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
